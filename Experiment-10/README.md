@@ -57,12 +57,3 @@ http://www.lab.com
 ## Result
 Successfully configured a client-server application and observed TCP and UDP communication using Cisco Packet Tracer.
 
-## Viva Questions
-1. What is the client-server model?
-2. What is TCP?
-3. What is UDP?
-4. What is the difference between TCP and UDP?
-5. Why is TCP called connection-oriented?
-6. What is the purpose of DNS?
-7. Which transport protocol does HTTP use?
-8. What are the default port numbers of HTTP and DNS?
