@@ -154,40 +154,5 @@ Successfully studied and executed basic networking commands using Cisco Packet T
 
 Basic networking commands help administrators monitor, configure and troubleshoot computer networks. The experiment provided practical knowledge of IP addressing, connectivity testing, ARP and network diagnostics.
 
-## 8. Viva Questions
-
-**Q1. What is an IP address?**  
-An IP address is a logical address assigned to a device on a network for identification and communication.
-
-**Q2. What is a subnet mask?**  
-A subnet mask identifies the network and host portions of an IP address.
-
-**Q3. What is the purpose of ping?**  
-It checks whether a destination device is reachable over a network.
-
-**Q4. What is TTL?**  
-Time To Live is a field that limits the lifetime or number of routing hops of an IP packet.
-
-**Q5. What is DNS?**  
-Domain Name System translates domain names into IP addresses.
-
-**Q6. What is DHCP?**  
-Dynamic Host Configuration Protocol automatically assigns IP configuration to devices.
-
-**Q7. What is ARP?**  
-Address Resolution Protocol maps IPv4 addresses to MAC addresses on a local network.
-
-**Q8. What is the difference between IP and MAC addresses?**  
-An IP address is a logical network address, whereas a MAC address is a hardware-level address associated with a network interface.
-
-**Q9. What is the purpose of tracert?**  
-It identifies the route taken by packets to reach a destination.
-
-**Q10. What is a default gateway?**  
-It is the router used to forward traffic to destinations outside the local network.
-
-**Q11. What happens when a ping request times out?**  
-It means no response was received within the allowed time. Possible causes include connectivity problems, filtering or an unreachable destination.
-
-**Q12. What is the difference between TCP and UDP?**  
+at is the difference between TCP and UDP?**  
 TCP is connection-oriented and provides reliable delivery, whereas UDP is connectionless and does not guarantee delivery.
