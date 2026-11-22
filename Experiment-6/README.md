@@ -60,10 +60,3 @@ ping 192.168.2.2
 ## Result
 Successfully configured a Cisco 1941 router and established communication between two different networks.
 
-## Viva Questions
-1. What is a router?
-2. What is the purpose of the `no shutdown` command?
-3. What is a default gateway?
-4. What is the difference between a router and a switch?
-5. What does the `show ip interface brief` command display?
-6. Why are different network addresses assigned to the two router interfaces?
