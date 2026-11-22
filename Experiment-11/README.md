@@ -54,14 +54,3 @@ ftp 192.168.20.2
 ## Result
 Successfully simulated client-server communication using FTP and observed TCP connection establishment in Cisco Packet Tracer.
 
-## Viva Questions
-1. What is socket programming?
-2. What is a socket?
-3. What is the client-server model?
-4. What is the difference between a client and a server?
-5. What is TCP?
-6. What is FTP?
-7. What is a port number?
-8. What is the TCP three-way handshake?
-9. What are SYN, SYN-ACK and ACK?
-10. What is the difference between TCP and UDP?
