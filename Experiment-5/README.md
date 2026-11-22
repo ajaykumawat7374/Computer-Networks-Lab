@@ -105,34 +105,3 @@ Successfully connected multiple computers in a Local Area Network using a switch
 
 A LAN enables multiple computers to communicate within a limited geographical area. The experiment demonstrated star topology, switch-based connectivity, IP addressing and packet transmission.
 
-## 8. Viva Questions
-
-**Q1. What is LAN?**  
-LAN stands for Local Area Network. It connects devices within a limited geographical area.
-
-**Q2. What is a switch?**  
-A switch connects multiple devices in a LAN and forwards frames using MAC addresses.
-
-**Q3. What is star topology?**  
-A topology in which all devices are connected to a central device such as a switch.
-
-**Q4. What is the advantage of star topology?**  
-Failure of one device or cable generally does not affect the other connections.
-
-**Q5. What is the purpose of an IP address?**  
-It identifies a device on an IP network.
-
-**Q6. What is a MAC address?**  
-A hardware-level address associated with a network interface.
-
-**Q7. What is the purpose of ping?**  
-It tests connectivity between network devices.
-
-**Q8. Can computers communicate without a router in a LAN?**  
-Yes, devices in the same IP subnet can communicate through a switch without a router.
-
-**Q9. What is an ICMP packet?**  
-ICMP is a network-layer protocol used for error reporting and diagnostic operations such as ping.
-
-**Q10. What happens if the central switch fails?**  
-Communication between devices connected through that switch is disrupted.
