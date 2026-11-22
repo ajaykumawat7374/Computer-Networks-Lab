@@ -103,34 +103,3 @@ Successfully studied and configured IP addressing on computers using Cisco Packe
 
 IP addressing enables devices to communicate over computer networks. The experiment demonstrated static IP configuration, subnet masks, default gateways and connectivity testing.
 
-## 8. Viva Questions
-
-**Q1. What is an IP address?**  
-An IP address is a logical address assigned to a device for identification and communication over a network.
-
-**Q2. What is IPv4?**  
-IPv4 is a 32-bit addressing scheme represented using four decimal octets.
-
-**Q3. What is IPv6?**  
-IPv6 is a 128-bit addressing scheme designed to provide a much larger address space.
-
-**Q4. What is a subnet mask?**  
-A subnet mask identifies the network and host portions of an IP address.
-
-**Q5. What is the default gateway?**  
-It is the router used to communicate with devices outside the local network.
-
-**Q6. What is static IP addressing?**  
-It is the process of manually assigning an IP address to a device.
-
-**Q7. What is dynamic IP addressing?**  
-It is the automatic assignment of IP addresses using DHCP.
-
-**Q8. What is the purpose of the ping command?**  
-It tests connectivity between two network devices.
-
-**Q9. What is a private IP address?**  
-An IP address reserved for use within private networks.
-
-**Q10. What is the subnet mask of a /24 network?**  
-255.255.255.0.
