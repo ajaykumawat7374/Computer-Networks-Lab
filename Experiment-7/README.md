@@ -63,10 +63,3 @@ ping 192.168.3.1
 ## Result
 Successfully established peer-to-peer communication between two computers using a switch and router in a LAN.
 
-## Viva Questions
-1. What is a peer-to-peer network?
-2. What is the role of a switch in a LAN?
-3. What is the role of a router?
-4. What is a default gateway?
-5. What is the purpose of the ping command?
-6. Can two computers in the same subnet communicate without a router?
