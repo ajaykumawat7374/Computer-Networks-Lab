@@ -58,15 +58,4 @@ ping 192.168.10.101
 ## Result
 Successfully implemented a DHCP server and assigned IP addresses dynamically to client computers using Cisco Packet Tracer.
 
-## Viva Questions
 
-1. What is DHCP?
-2. What is the full form of DHCP?
-3. What is the DORA process?
-4. What is the difference between static and dynamic IP addressing?
-5. Which transport protocol does DHCP use?
-6. What are DHCP server and client port numbers?
-7. What is a DHCP scope or pool?
-8. What happens when a DHCP server is unavailable?
-9. What is a DHCP lease?
-10. What is the purpose of the subnet mask?
