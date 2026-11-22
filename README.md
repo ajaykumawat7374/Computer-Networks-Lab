@@ -126,34 +126,3 @@ Successfully studied different types of network cables and implemented straight-
 
 Network cables play an important role in establishing wired communication between devices. Straight-through and crossover cables differ in their wiring arrangements and applications. The practical helped understand Ethernet wiring standards, RJ45 connectors and cable crimping techniques.
 
-## 9. Viva Questions
-
-**Q1. What is UTP?**  
-UTP stands for Unshielded Twisted Pair. It consists of twisted copper wire pairs without additional shielding.
-
-**Q2. What is RJ45?**  
-RJ45 is an 8-pin modular connector commonly used in Ethernet networks.
-
-**Q3. What is the difference between straight-through and crossover cables?**  
-A straight-through cable has the same wiring standard at both ends, whereas a crossover cable has T568A at one end and T568B at the other.
-
-**Q4. What is the purpose of a crimping tool?**  
-It is used to attach RJ45 connectors securely to Ethernet cables.
-
-**Q5. How many wires are present in an Ethernet cable?**  
-Eight individual wires arranged in four twisted pairs.
-
-**Q6. What is the purpose of a LAN tester?**  
-It checks the continuity and correct pin connections of an Ethernet cable.
-
-**Q7. What are T568A and T568B?**  
-They are standard wiring schemes that define the colour arrangement of Ethernet cable wires.
-
-**Q8. Which cable is traditionally used to connect two computers directly?**  
-A crossover cable.
-
-**Q9. Which cable is traditionally used to connect a computer to a switch?**  
-A straight-through cable.
-
-**Q10. What is the function of twisted pairs?**  
-Twisting helps reduce electromagnetic interference and crosstalk.
