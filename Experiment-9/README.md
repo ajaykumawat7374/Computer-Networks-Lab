@@ -84,12 +84,4 @@ ping 192.168.2.2
 ## Result
 Successfully simulated dynamic routing using RIP version 2 in Cisco Packet Tracer.
 
-## Viva Questions
-1. What is a routing protocol?
-2. What is RIP?
-3. What is the difference between static and dynamic routing?
-4. What is the maximum hop count in RIP?
-5. What is the difference between RIP version 1 and version 2?
-6. What does the `no auto-summary` command do?
-7. What does the letter R represent in the routing table?
-8. Which command displays the routing table?
+
