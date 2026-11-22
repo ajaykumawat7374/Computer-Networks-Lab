@@ -156,40 +156,4 @@ Successfully studied various networking devices, understood their functions and 
 
 Different networking devices perform different functions in computer networks. The experiment provided practical knowledge of hubs, switches, routers, repeaters, modems, wireless access points and network interface cards.
 
-## 9. Viva Questions
-
-**Q1. What is a hub?**  
-A hub is a networking device that connects multiple devices and broadcasts incoming data to all its ports.
-
-**Q2. What is a switch?**  
-A switch connects devices in a LAN and forwards frames using MAC addresses.
-
-**Q3. What is a router?**  
-A router connects different networks and forwards packets using IP addresses.
-
-**Q4. What is the difference between a hub and a switch?**  
-A hub broadcasts data to all ports, whereas a switch forwards data to the appropriate destination port.
-
-**Q5. What is the function of a repeater?**  
-It regenerates signals to extend network transmission distance.
-
-**Q6. What is a modem?**  
-A modem performs modulation and demodulation to enable communication over a transmission medium.
-
-**Q7. What is a NIC?**  
-A Network Interface Card provides network connectivity to a computer.
-
-**Q8. What is a MAC address?**  
-A MAC address is a hardware-level address associated with a network interface.
-
-**Q9. What is a wireless access point?**  
-It allows wireless devices to connect to a wired network.
-
-**Q10. At which OSI layer does a router operate?**  
-Network Layer (Layer 3).
-
-**Q11. At which OSI layer does a switch operate?**  
-Data Link Layer (Layer 2), for a standard Layer 2 switch.
-
-**Q12. What is the purpose of a server?**  
-A server provides services and resources to other computers called clients.
+urces to other computers called clients.
