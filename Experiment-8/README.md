@@ -69,12 +69,3 @@ show ip nat statistics
 ## Result
 Successfully configured and examined NAT Overload (PAT) using Cisco Packet Tracer.
 
-## Viva Questions
-1. What is NAT?
-2. Why is NAT used?
-3. What is the difference between static NAT and dynamic NAT?
-4. What is PAT?
-5. What is a private IP address?
-6. What is the purpose of `ip nat inside`?
-7. What is the purpose of `ip nat outside`?
-8. Which command displays NAT translations?
